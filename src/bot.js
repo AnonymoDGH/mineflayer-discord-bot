@@ -32,6 +32,11 @@ function createBot() {
     physicsEnabled: true,
   });
 
+  bot.on('spawn', () => {
+    bot.chat('/login kevin12')
+  });
+
+  
   bot.status = {
     isGuarding: false,
     isTotem: false,
