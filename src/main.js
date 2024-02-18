@@ -4,6 +4,7 @@ const path = require("node:path");
 const mineflayer = require("mineflayer");
 
 const { token } = require("./settings.json");
+const token = process.env['token']
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
