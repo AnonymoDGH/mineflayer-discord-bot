@@ -1,1 +1,12 @@
-
+{
+  "token": "token",
+  "clientID": "clientID",
+  "messages": "messages",
+  "events": "events",
+  "username": "username",
+  "address": "address",
+  "port": "port",
+  "version": "1.20.1",
+  "auth": "offline",
+  "showCoordinates": false
+}
