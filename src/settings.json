@@ -1,8 +1,8 @@
 {
   "token": "token",
-  "clientID": "clientID",
-  "messages": "messages",
-  "events": "events",
+  "clientID": "1208900118460244028",
+  "messages": "https://discord.com/api/webhooks/1208901392182411355/c6nFX_V14JCuLb_XFau98ioHAzwz13d6k38upgvtCSsXesB6gZr0Av6P4lxo7ABWHvFN",
+  "events": "https://discord.com/api/webhooks/1208901768096784476/g54nU96KZ09XiC0Pgb3NU6DLoJ14iI8TuwAMXw4og9ZXpoip1ghgOOsy3gKTi1nID8nT",
   "username": "IfuryTrm",
   "address": "UHCustomUnivers.exaroton.me",
   "port": 45971,
